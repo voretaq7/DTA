@@ -1,0 +1,22 @@
+REV.1
+  01-PS
+    - Modified layout of bias (C-) power supply for readability
+    - Noted that bias adjust pots should be mounted on chassis top
+    - Noted that bias adjust pots should be mounted near bias test points
+
+  02-PreAmp
+    - No changes from Rev.0
+
+  03-PoweAmp-50W
+    - Added banana jack connectors for bias/current probe monitoring
+    - Noted that bias test jacks should be mounted near bias adjust. pots
+
+  04-FXM
+    - No Changes from Rev.0
+
+  Layout-Tonestack
+    - No Changes from Rev.0
+
+##########################################################################
+REV.0
+- Initial Release of all diagrams.
